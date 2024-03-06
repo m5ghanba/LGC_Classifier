@@ -1,4 +1,4 @@
-# LGC_Classifier
+# LGC Classifier
 Local and Global Consistency Classifier Applied on Complex Compact Polarimetric (CP) and (Quad Polarimetric) Synthetic Aperture Radar (SAR) Data. This repository relates to the paper: Ghanbari, M., Xu, L., Clausi, D., A. (2023, Published). "Local and Global Spatial Information for Land Cover Semi-Supervised Classification of Complex Polarimetric SAR Data". IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 # The Case with Complex CP SAR Data
 Run the file LGC_Classifier_CP.py. It is assumed that the user has copied four files in the same directory as this file: 
